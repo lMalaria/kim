@@ -1,0 +1,6 @@
+C:\Users\parkjoosung\Downloads\KaKaoExample (2)\KaKaoExample\bin\Debug\KaKaoExample.exe.config
+C:\Users\parkjoosung\Downloads\KaKaoExample (2)\KaKaoExample\bin\Debug\KaKaoExample.exe
+C:\Users\parkjoosung\Downloads\KaKaoExample (2)\KaKaoExample\bin\Debug\KaKaoExample.pdb
+C:\Users\parkjoosung\Downloads\KaKaoExample (2)\KaKaoExample\obj\Debug\KaKaoExample.csprojResolveAssemblyReference.cache
+C:\Users\parkjoosung\Downloads\KaKaoExample (2)\KaKaoExample\obj\Debug\KaKaoExample.exe
+C:\Users\parkjoosung\Downloads\KaKaoExample (2)\KaKaoExample\obj\Debug\KaKaoExample.pdb
